@@ -3,7 +3,7 @@ package main
 import (
 	"math/rand"
 
-	"github.com/fogleman/gg"
+	"github.com/kintar/gg"
 )
 
 func CreatePoints(n int) []gg.Point {
