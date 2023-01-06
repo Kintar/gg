@@ -1,5 +1,7 @@
 # Go Graphics
 
+**NOTE:** This is a fork of Michael Fogleman's [Go Graphics](https://github.com/fogleman/gg) library. I wanted to be able to incldue it in my projects using go modules, but the original project did not incldue a go.mod file.
+
 `gg` is a library for rendering 2D graphics in pure Go.
 
 ![Stars](http://i.imgur.com/CylQIJt.png)
